@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
+
+body {
+	/* marg+pad*/
+	margin: 0px;
+	padding-left: 50px;
+	padding-right: 30px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	
+	/* color */
+	background-color: rgba(77, 89, 91, 1);
+	
+	/* font */
+	font-family: "Roboto";
+	color: rgba(246, 242, 240, 0.8);
+	font-weight: 400;
+	line-height: 1.58;
+	letter-spacing: -0.003em;
+	font-size: 20px;
+	
+}
